@@ -1,0 +1,4 @@
+A la fecha: Sun Oct 03 2021 14:12:59 GMT-0300 (hora de verano de Chile) 
+        Fue realizada una cotización con los siguientes datos: 
+        Cantidad de CLP a convertir: $2.500.000
+        Convertido a dolar da un total de: $3,079.2
